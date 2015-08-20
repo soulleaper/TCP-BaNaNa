@@ -14,7 +14,7 @@ In this repository contains 2 programs to retrieve local IP address of a device/
 
 1. c-ipaddress.c
 
-  To compile this file, type:
+  To compile and run this file, type:
   
   ```
   $ gcc c-ipaddress.c && ./a.out
@@ -28,7 +28,7 @@ In this repository contains 2 programs to retrieve local IP address of a device/
 
 2. cpp-ipaddress.cpp
 
-  To compile this file, type:
+  To compile and run this file, type:
 
   ```
   $ g++ cpp-ipaddress.cpp
